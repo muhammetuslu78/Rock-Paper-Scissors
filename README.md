@@ -1,16 +1,10 @@
-# rps
+# Rock-Paper-Scissors Game
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p>
+<img src="https://imageupload.io/ib/wc8w0hZb0v0IkHO_1695148458.png" width="156" height="275">    
+<img src="https://imageupload.io/ib/rH9lgdZCvWCKWxy_1695148624.png" width="156" height="275">    
+<img src="https://imageupload.io/ib/h1ZYHCWIfIm7SYb_1695148683.png" width="156" height="275">    
+<img src="https://imageupload.io/ib/LBJB7pnVFiYU9lJ_1695148766.png" width="156" height="275">
+<img src="https://imageupload.io/ib/krqATlfnAD0S1Le_1695148793.png" width="156" height="275">
+</p>
